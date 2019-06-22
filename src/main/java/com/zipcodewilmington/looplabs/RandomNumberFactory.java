@@ -41,7 +41,7 @@ public final class RandomNumberFactory {
     /**
      * @param min
      * @param max
-     * @return an array the specified length containing integers in the specified range
+     * @return an array the specified length containing inputArr in the specified range
      */
     public static Integer[] createIntegers(int min, int max, int length) {
         Integer[] integers = new Integer[length];
